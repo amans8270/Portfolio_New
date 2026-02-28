@@ -31,7 +31,7 @@ export default function Hero() {
                     className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass border border-indigo-500/30 text-indigo-300 text-sm mb-8"
                 >
                     <Sparkles className="w-3.5 h-3.5" />
-                    <span>Available for opportunities</span>
+                    <span>Available for opportunities (Freelancing / Job)</span>
                     <span className="w-2 h-2 rounded-full bg-green-400 animate-pulse" />
                 </motion.div>
 
