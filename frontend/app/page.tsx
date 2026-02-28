@@ -4,7 +4,7 @@ import Projects from '@/components/sections/Projects';
 import Resume from '@/components/sections/Resume';
 import Contact from '@/components/sections/Contact';
 import ChatWidget from '@/components/chatbot/ChatWidget';
-import { Github, Linkedin, Twitter, Code2, Mail } from 'lucide-react';
+import { Github, Linkedin, Code2, Mail } from 'lucide-react';
 
 export default function HomePage() {
     return (
